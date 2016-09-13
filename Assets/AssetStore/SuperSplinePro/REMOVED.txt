@@ -1,0 +1,3 @@
+SuperSplinePro (circa 2012) package from AssetStore was here. Removed because of the license.
+
+Two files that were heavily modified and extended during the project were kept.

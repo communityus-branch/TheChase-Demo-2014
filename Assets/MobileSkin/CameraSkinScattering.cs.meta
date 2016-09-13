@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e30571277c0f9470ca189ade94414fc1
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - skin1stPassShader: {fileID: 4800000, guid: 64f7c7a84de004f99910f2b698d6ce4e, type: 3}
+  - skin1stPassEyesShader: {fileID: 4800000, guid: 6333ea246c9724ad08925a66ad08cf80,
+      type: 3}
+  - skin2ndPassLQShader: {fileID: 4800000, guid: 4073d277f4c3f4ec59b62c41705849f6,
+      type: 3}
+  - skin2ndPassLQEyesShader: {fileID: 4800000, guid: ab987304b5233418984496782bec887c,
+      type: 3}
+  - skinFBShader: {fileID: 4800000, guid: 3acac6d4ca7654fe6bb1017c7ec990ec, type: 3}
+  - skinPostPassShader: {fileID: 4800000, guid: 01902f151eb0c460eb2ce68e56bf969c,
+      type: 3}
+  - skinKeywordShader: {fileID: 4800000, guid: 798d26fd9bfa04e41892c4235faa726e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

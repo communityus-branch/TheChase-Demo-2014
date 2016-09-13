@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b93749bd00c8945dc969323c24de74bc
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - fogTexture: {fileID: 2800000, guid: 2a87f8c3034b742db87ebc469186133c, type: 3}
+  - sunLight: {instanceID: 0}
+  - m_SkyMesh: {fileID: 4300000, guid: a957f208424e64187a3c2e4e3964830e, type: 3}
+  - m_SkyMaterial: {fileID: 2100000, guid: 38646f3eef42d4917b35c8d5b166f17a, type: 2}
+  - m_DestTexture: {fileID: 2800000, guid: 2a87f8c3034b742db87ebc469186133c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

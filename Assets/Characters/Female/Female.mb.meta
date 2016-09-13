@@ -1,0 +1,97 @@
+fileFormatVersion: 2
+guid: 3313d36ed615f4678b8375f70ffa9757
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: group
+    100002: pasted__unityWomanHairKnot1
+    100004: unityWomanBrows:unityWomanEyeBrows_Geo
+    100006: unityWomanEyes2
+    100008: unityWomanEyesLashes1
+    100010: unityWomanHairGeo
+    100012: unityWomanHairKnotGeo
+    100014: unityWomanHead:polySurface1
+    100016: //RootNode
+    400000: group
+    400002: pasted__unityWomanHairKnot1
+    400004: unityWomanBrows:unityWomanEyeBrows_Geo
+    400006: unityWomanEyes2
+    400008: unityWomanEyesLashes1
+    400010: unityWomanHairGeo
+    400012: unityWomanHairKnotGeo
+    400014: unityWomanHead:polySurface1
+    400016: //RootNode
+    2300000: pasted__unityWomanHairKnot1
+    2300002: unityWomanBrows:unityWomanEyeBrows_Geo
+    2300004: unityWomanEyes2
+    2300006: unityWomanEyesLashes1
+    2300008: unityWomanHairGeo
+    2300010: unityWomanHairKnotGeo
+    2300012: unityWomanHead:polySurface1
+    3300000: pasted__unityWomanHairKnot1
+    3300002: unityWomanBrows:unityWomanEyeBrows_Geo
+    3300004: unityWomanEyes2
+    3300006: unityWomanEyesLashes1
+    3300008: unityWomanHairGeo
+    3300010: unityWomanHairKnotGeo
+    3300012: unityWomanHead:polySurface1
+    4300000: unityWomanEyes2
+    4300002: unityWomanEyesLashes1
+    4300004: unityWomanHead:polySurface1
+    4300006: unityWomanHairKnotGeo
+    4300008: unityWomanHairGeo
+    4300010: pasted__unityWomanHairKnot1
+    4300012: unityWomanBrows:unityWomanEyeBrows_Geo
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0194000006
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

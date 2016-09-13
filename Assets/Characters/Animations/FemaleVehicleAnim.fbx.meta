@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: 16da9a76934114c04876369b6a5a579d
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: FemaleVehicle:HandlePivotCylinder
+    100004: FemaleVehicle:HoverBike_mesh_Ref_NoANIM
+    100006: FemaleVehicle:L_HandleBar_Ctrl
+    100008: FemaleVehicle:Offset01
+    100010: FemaleVehicle:OffsetHandle01
+    100012: FemaleVehicle:OffsetHandle02
+    100014: FemaleVehicle:pCube2Ref_NoANIM
+    100016: FemaleVehicle:pCube2Ref_NoANIM1
+    100018: FemaleVehicle:pCylinder1Ref_NoANIM
+    100020: FemaleVehicle:pCylinder1Ref_NoANIM 1
+    100022: FemaleVehicle:R_HandleBar_Ctrl
+    100024: FemaleVehicle:Vehicle_Animate_Local_Rotations
+    100026: FemaleVehicle:Vehicle_Animate_Local_Translations
+    100028: FemaleVehicle:Vehicle_COG_RefPoint
+    100030: FemaleVehicle:Vehicle_Vibrations
+    400000: //RootNode
+    400002: FemaleVehicle:HandlePivotCylinder
+    400004: FemaleVehicle:HoverBike_mesh_Ref_NoANIM
+    400006: FemaleVehicle:L_HandleBar_Ctrl
+    400008: FemaleVehicle:Offset01
+    400010: FemaleVehicle:OffsetHandle01
+    400012: FemaleVehicle:OffsetHandle02
+    400014: FemaleVehicle:pCube2Ref_NoANIM
+    400016: FemaleVehicle:pCube2Ref_NoANIM1
+    400018: FemaleVehicle:pCylinder1Ref_NoANIM
+    400020: FemaleVehicle:pCylinder1Ref_NoANIM 1
+    400022: FemaleVehicle:R_HandleBar_Ctrl
+    400024: FemaleVehicle:Vehicle_Animate_Local_Rotations
+    400026: FemaleVehicle:Vehicle_Animate_Local_Translations
+    400028: FemaleVehicle:Vehicle_COG_RefPoint
+    400030: FemaleVehicle:Vehicle_Vibrations
+    2300000: FemaleVehicle:HandlePivotCylinder
+    2300002: FemaleVehicle:HoverBike_mesh_Ref_NoANIM
+    2300004: FemaleVehicle:pCube2Ref_NoANIM
+    2300006: FemaleVehicle:pCube2Ref_NoANIM1
+    2300008: FemaleVehicle:pCylinder1Ref_NoANIM
+    2300010: FemaleVehicle:pCylinder1Ref_NoANIM 1
+    3300000: FemaleVehicle:HandlePivotCylinder
+    3300002: FemaleVehicle:HoverBike_mesh_Ref_NoANIM
+    3300004: FemaleVehicle:pCube2Ref_NoANIM
+    3300006: FemaleVehicle:pCube2Ref_NoANIM1
+    3300008: FemaleVehicle:pCylinder1Ref_NoANIM
+    3300010: FemaleVehicle:pCylinder1Ref_NoANIM 1
+    4300000: FemaleVehicle:pCube2Ref_NoANIM
+    4300002: FemaleVehicle:pCylinder1Ref_NoANIM
+    4300004: FemaleVehicle:pCube2Ref_NoANIM1
+    4300006: FemaleVehicle:pCylinder1Ref_NoANIM 1
+    4300008: FemaleVehicle:HoverBike_mesh_Ref_NoANIM
+    4300010: FemaleVehicle:HandlePivotCylinder
+    7400000: Idles (both) 0-149
+    7400002: Jump (female) 378-530
+    7400004: Ramming2 (both) 627-898
+    7400006: TurnLeftFiringOnce2 (both) 932- 1182
+    7400008: FemaleFiringOnce2 (both) 1229- 1363
+    7400010: FemaleFiringOnce (both) 1183- 1363
+    7400012: FemaleFaceReact2 (female) 2085- 2340
+    7400014: ObstacleSkid2 (both) 2540- 2649
+    7400016: Ramming (both) 531-898
+    7400018: TurnLeftFiringOnce (both) 899- 1182
+    7400020: TrafficDodge (both) 1364- 1651
+    7400022: FemaleFaceReact (female) 1950- 2340
+    7400024: ObstacleSkid (both) 2341- 2649
+    7400026: TurnLeftFiringOnce3 (both) 1077- 1182
+    7400028: Jump
+    7400030: Ramming2
+    7400032: FemaleDuck1
+    7400034: FemaleDuck2
+    7400036: FemaleFiringOnce2
+    7400038: FemaleFaceReact
+    7400040: FemaleFaceReactShort
+    7400042: ObstacleSkid
+    7400044: Idles
+    7400046: CatchingUp
+    7400048: CatchingUp2
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations:
+    - name: Jump
+      takeName: Take 001
+      firstFrame: 393
+      lastFrame: 490
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Ramming2
+      takeName: Take 001
+      firstFrame: 627
+      lastFrame: 759
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: FemaleDuck1
+      takeName: Take 001
+      firstFrame: 1078
+      lastFrame: 1128
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: FemaleDuck2
+      takeName: Take 001
+      firstFrame: 1077
+      lastFrame: 1159
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: FemaleFiringOnce2
+      takeName: Take 001
+      firstFrame: 1229
+      lastFrame: 1384
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: FemaleFaceReact
+      takeName: Take 001
+      firstFrame: 1950
+      lastFrame: 2073
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: FemaleFaceReactShort
+      takeName: Take 001
+      firstFrame: 2085
+      lastFrame: 2356
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: ObstacleSkid
+      takeName: Take 001
+      firstFrame: 2540
+      lastFrame: 2650
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Idles
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 149
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: CatchingUp2
+      takeName: Take 001
+      firstFrame: 537
+      lastFrame: 664
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

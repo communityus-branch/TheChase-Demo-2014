@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 77949c5d586a0e349843265dca15e430
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - shader: {fileID: 4800000, guid: 11c8971f9061dcb44a784590b4d960fe, type: 3}
+  - glitchMesh: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

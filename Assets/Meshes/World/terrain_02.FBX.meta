@@ -1,0 +1,106 @@
+fileFormatVersion: 2
+guid: 64822b6294d0b4c47b1cd379b1476f8c
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: terrain_02_MeshPart0
+    100004: terrain_02_MeshPart1
+    100006: terrain_02_MeshPart2
+    100008: terrain_02_MeshPart3
+    100010: terrain_02_MeshPart4
+    100012: terrain_02_MeshPart5
+    100014: terrain_02_MeshPart6
+    100016: terrain_02_MeshPart7
+    100018: terrain_02_MeshPart8
+    400000: //RootNode
+    400002: terrain_02_MeshPart0
+    400004: terrain_02_MeshPart1
+    400006: terrain_02_MeshPart2
+    400008: terrain_02_MeshPart3
+    400010: terrain_02_MeshPart4
+    400012: terrain_02_MeshPart5
+    400014: terrain_02_MeshPart6
+    400016: terrain_02_MeshPart7
+    400018: terrain_02_MeshPart8
+    2300000: //RootNode
+    2300002: terrain_02_MeshPart0
+    2300004: terrain_02_MeshPart1
+    2300006: terrain_02_MeshPart2
+    2300008: terrain_02_MeshPart3
+    2300010: terrain_02_MeshPart4
+    2300012: terrain_02_MeshPart5
+    2300014: terrain_02_MeshPart6
+    2300016: terrain_02_MeshPart7
+    2300018: terrain_02_MeshPart8
+    3300000: //RootNode
+    3300002: terrain_02_MeshPart0
+    3300004: terrain_02_MeshPart1
+    3300006: terrain_02_MeshPart2
+    3300008: terrain_02_MeshPart3
+    3300010: terrain_02_MeshPart4
+    3300012: terrain_02_MeshPart5
+    3300014: terrain_02_MeshPart6
+    3300016: terrain_02_MeshPart7
+    3300018: terrain_02_MeshPart8
+    4300000: terrain_02
+    4300002: terrain_02_MeshPart0
+    4300004: terrain_02_MeshPart1
+    4300006: terrain_02_MeshPart2
+    4300008: terrain_02_MeshPart3
+    4300010: terrain_02_MeshPart4
+    4300012: terrain_02_MeshPart5
+    4300014: terrain_02_MeshPart6
+    4300016: terrain_02_MeshPart7
+    4300018: terrain_02_MeshPart8
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 0
+  userData: 

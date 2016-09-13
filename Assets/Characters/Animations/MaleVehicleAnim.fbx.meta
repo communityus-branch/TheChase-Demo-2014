@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: b085b8c07136d4be08e4c11f5faf14b9
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Camera
+    100002: //RootNode
+    100004: MaleVehicle:HandlePivotCylinder
+    100006: MaleVehicle:HoverBike_mesh_Ref_NoANIM
+    100008: MaleVehicle:L_HandleBar_Ctrl
+    100010: MaleVehicle:Offset01
+    100012: MaleVehicle:OffsetHandle01
+    100014: MaleVehicle:OffsetHandle02
+    100016: MaleVehicle:pCube2Ref_NoANIM
+    100018: MaleVehicle:pCube2Ref_NoANIM1
+    100020: MaleVehicle:pCylinder1Ref_NoANIM
+    100022: MaleVehicle:pCylinder1Ref_NoANIM 1
+    100024: MaleVehicle:R_HandleBar_Ctrl
+    100026: MaleVehicle:Vehicle_Animate_Local_Rotations
+    100028: MaleVehicle:Vehicle_Animate_Local_Translations
+    100030: MaleVehicle:Vehicle_COG_RefPoint
+    100032: MaleVehicle:Vehicle_Vibrations
+    400000: Camera
+    400002: //RootNode
+    400004: MaleVehicle:HandlePivotCylinder
+    400006: MaleVehicle:HoverBike_mesh_Ref_NoANIM
+    400008: MaleVehicle:L_HandleBar_Ctrl
+    400010: MaleVehicle:Offset01
+    400012: MaleVehicle:OffsetHandle01
+    400014: MaleVehicle:OffsetHandle02
+    400016: MaleVehicle:pCube2Ref_NoANIM
+    400018: MaleVehicle:pCube2Ref_NoANIM1
+    400020: MaleVehicle:pCylinder1Ref_NoANIM
+    400022: MaleVehicle:pCylinder1Ref_NoANIM 1
+    400024: MaleVehicle:R_HandleBar_Ctrl
+    400026: MaleVehicle:Vehicle_Animate_Local_Rotations
+    400028: MaleVehicle:Vehicle_Animate_Local_Translations
+    400030: MaleVehicle:Vehicle_COG_RefPoint
+    400032: MaleVehicle:Vehicle_Vibrations
+    2300000: MaleVehicle:HandlePivotCylinder
+    2300002: MaleVehicle:HoverBike_mesh_Ref_NoANIM
+    2300004: MaleVehicle:pCube2Ref_NoANIM
+    2300006: MaleVehicle:pCube2Ref_NoANIM1
+    2300008: MaleVehicle:pCylinder1Ref_NoANIM
+    2300010: MaleVehicle:pCylinder1Ref_NoANIM 1
+    3300000: MaleVehicle:HandlePivotCylinder
+    3300002: MaleVehicle:HoverBike_mesh_Ref_NoANIM
+    3300004: MaleVehicle:pCube2Ref_NoANIM
+    3300006: MaleVehicle:pCube2Ref_NoANIM1
+    3300008: MaleVehicle:pCylinder1Ref_NoANIM
+    3300010: MaleVehicle:pCylinder1Ref_NoANIM 1
+    4300000: MaleVehicle:pCube2Ref_NoANIM
+    4300002: MaleVehicle:pCylinder1Ref_NoANIM
+    4300004: MaleVehicle:pCube2Ref_NoANIM1
+    4300006: MaleVehicle:pCylinder1Ref_NoANIM 1
+    4300008: MaleVehicle:HoverBike_mesh_Ref_NoANIM
+    4300010: MaleVehicle:HandlePivotCylinder
+    7400000: Idles (both) 0-149
+    7400002: Jump2 (male) 171-530
+    7400004: Ramming2 (both) 627-898
+    7400006: TurnLeftFiringOnce (both) 899- 1182
+    7400008: FemaleFiringOnce (both) 1183- 1363
+    7400010: TrafficDodge2 (both) 1407- 1651
+    7400012: TurboBoost (male) 1652- 2096
+    7400014: ObstacleSkid (both) 2341- 2649
+    7400016: Jump (male) 150-530
+    7400018: Ramming (both) 531-898
+    7400020: TrafficDodge-Turning (both) 1484- 1651
+    7400022: FemaleFiringOnce2 (both) 1229- 1363
+    7400024: TrafficDodge (both) 1364- 1651
+    7400026: TurboBoost2 (male) 1695 - 2096
+    7400028: TurboBoost3 (male) 1874- 2096
+    7400030: ObstacleSkid2 (both) 2408- 2649
+    7400032: TurboBoost
+    7400034: Jumps2
+    7400036: Ramming2
+    7400038: Turning
+    7400040: FiringOnceShort1
+    7400042: FiringOnceShort2
+    7400044: FiringOnceShort3
+    7400046: FemaleFiringOnce2
+    7400048: TrafficDodge2
+    7400050: TurboBoost2
+    7400052: TurboBoost3
+    7400054: ObstacleSkid2
+    7400056: Idles
+    7400058: TurboBoost4
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations:
+    - name: TurboBoost
+      takeName: Take 001
+      firstFrame: 1652
+      lastFrame: 1811
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Jumps2
+      takeName: Take 001
+      firstFrame: 168
+      lastFrame: 571
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Ramming2
+      takeName: Take 001
+      firstFrame: 627
+      lastFrame: 826
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Turning
+      takeName: Take 001
+      firstFrame: 1484
+      lastFrame: 1568
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: FiringOnceShort1
+      takeName: Take 001
+      firstFrame: 932
+      lastFrame: 1105
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: FiringOnceShort2
+      takeName: Take 001
+      firstFrame: 1067
+      lastFrame: 1122
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: FiringOnceShort3
+      takeName: Take 001
+      firstFrame: 1089
+      lastFrame: 1120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: FemaleFiringOnce2
+      takeName: Take 001
+      firstFrame: 1229
+      lastFrame: 1376
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: TrafficDodge2
+      takeName: Take 001
+      firstFrame: 1407
+      lastFrame: 1759
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: TurboBoost2
+      takeName: Take 001
+      firstFrame: 1695
+      lastFrame: 1874
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: TurboBoost3
+      takeName: Take 001
+      firstFrame: 1874
+      lastFrame: 1981
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: ObstacleSkid2
+      takeName: Take 001
+      firstFrame: 2408
+      lastFrame: 2650
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Idles
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 149
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: TurboBoost4
+      takeName: Take 001
+      firstFrame: 1982
+      lastFrame: 2090
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

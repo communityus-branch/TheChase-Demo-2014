@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 41904c48ae1670545a0776e2cf01466f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - featureIcon: {fileID: 2800000, guid: 8f6422fb442812449b3cea8f365dc798, type: 3}
+  - hudCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

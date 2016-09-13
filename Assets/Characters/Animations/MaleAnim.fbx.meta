@@ -1,0 +1,1347 @@
+fileFormatVersion: 2
+guid: 011adc3528abb4970a2076d3a96c373c
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Male:AimAnnotationEye_L
+    100004: Male:AimAnnotationEye_R
+    100006: Male:AimCrossEye_M
+    100008: Male:AimEye_M
+    100010: Male:AimEyeLocatorChild_L
+    100012: Male:AimEyeLocatorChild_R
+    100014: Male:AimEyeLocatorPupil_L
+    100016: Male:AimEyeLocatorPupil_R
+    100018: Male:AimEyeLocatorVisualCenter_L
+    100020: Male:AimEyeLocatorVisualCenter_R
+    100022: Male:AimEyeVisualCenter_L
+    100024: Male:AimEyeVisualCenter_R
+    100026: Male:AimParentConstraintEye_M
+    100028: Male:AimReverseAimConstraintEye_M
+    100030: Male:AimSystem
+    100032: Male:Ankle_L
+    100034: Male:Ankle_R
+    100036: Male:BackA_M
+    100038: Male:BackB_M
+    100040: Male:BigToe_L
+    100042: Male:BigToe_R
+    100044: Male:cheek_L
+    100046: Male:cheek_L_JNT
+    100048: Male:cheek_L_LOC
+    100050: Male:cheek_R
+    100052: Male:cheek_R_JNT
+    100054: Male:cheek_R_LOC
+    100056: Male:Chest_M
+    100058: Male:Chin_JNT
+    100060: Male:Cup_L
+    100062: Male:Cup_R
+    100064: Male:DeformationSystem
+    100066: Male:Elbow_L
+    100068: Male:Elbow_R
+    100070: Male:ElbowPart1_L
+    100072: Male:ElbowPart1_R
+    100074: Male:ElbowPart2_L
+    100076: Male:ElbowPart2_R
+    100078: Male:Eye1_L
+    100080: Male:Eye1_R
+    100082: Male:Eye_L
+    100084: Male:Eye_R
+    100086: Male:eyebrow_L1
+    100088: Male:eyebrow_L1_JNT
+    100090: Male:eyebrow_L1_LOC
+    100092: Male:eyebrow_L2
+    100094: Male:eyebrow_L2_JNT
+    100096: Male:eyebrow_L2_LOC
+    100098: Male:eyebrow_L3
+    100100: Male:eyebrow_L3_JNT
+    100102: Male:eyebrow_L3_LOC
+    100104: Male:eyebrow_R1
+    100106: Male:eyebrow_R1_JNT
+    100108: Male:eyebrow_R1_LOC
+    100110: Male:eyebrow_R2
+    100112: Male:eyebrow_R2_JNT
+    100114: Male:eyebrow_R2_LOC
+    100116: Male:eyebrow_R3
+    100118: Male:eyebrow_R3_JNT
+    100120: Male:eyebrow_R3_LOC
+    100122: Male:eyelidlower_L_GRP
+    100124: Male:eyelidlower_L_JNT
+    100126: Male:eyelidlower_L_JNT_END
+    100128: Male:eyelidlower_R_GRP
+    100130: Male:eyelidlower_R_JNT
+    100132: Male:eyelidlower_R_JNT_END
+    100134: Male:eyelids_L_LOC
+    100136: Male:eyelids_L_sticky
+    100138: Male:eyelids_L_sticky_zero
+    100140: Male:eyelids_R_LOC
+    100142: Male:eyelids_R_sticky
+    100144: Male:eyelids_R_sticky_zero
+    100146: Male:eyelidupper_L_GRP
+    100148: Male:eyelidupper_L_JNT
+    100150: Male:eyelidupper_L_JNT_END
+    100152: Male:eyelidupper_R_GRP
+    100154: Male:eyelidupper_R_JNT
+    100156: Male:eyelidupper_R_JNT_END
+    100158: Male:FKExtraEye_L
+    100160: Male:FKExtraEye_R
+    100162: Male:FKEye_L
+    100164: Male:FKEye_R
+    100166: Male:FKOffsetEye_L
+    100168: Male:FKOffsetEye_R
+    100170: Male:FKXEye1_L
+    100172: Male:FKXEye1_R
+    100174: Male:FKXEye_L
+    100176: Male:FKXEye_R
+    100178: Male:forehead_mid
+    100180: Male:forehead_mid_JNT
+    100182: Male:forehead_mid_LOC
+    100184: Male:Geometry
+    100186: Male:Hair_M
+    100188: Male:Hair_mesh
+    100190: Male:Head_M
+    100192: Male:Hip_L
+    100194: Male:Hip_R
+    100196: Male:HipPart1_L
+    100198: Male:HipPart1_R
+    100200: Male:HipPart2_L
+    100202: Male:HipPart2_R
+    100204: Male:IndexFinger1_L
+    100206: Male:IndexFinger1_R
+    100208: Male:IndexFinger2_L
+    100210: Male:IndexFinger2_R
+    100212: Male:IndexFinger3_L
+    100214: Male:IndexFinger3_R
+    100216: Male:IndexFinger4_L
+    100218: Male:IndexFinger4_R
+    100220: Male:Jaw_M
+    100222: Male:JawEnd_M
+    100224: Male:Knee_L
+    100226: Male:Knee_R
+    100228: Male:KneePart1_L
+    100230: Male:KneePart1_R
+    100232: Male:KneePart2_L
+    100234: Male:KneePart2_R
+    100236: Male:L_Clench
+    100238: Male:L_Clench_JNT
+    100240: Male:L_Clench_LOC
+    100242: Male:L_NostrilFlarePosition
+    100244: Male:Main
+    100246: Male:MaleHeadOnly_Group
+    100248: Male:ManFacialPoses
+    100250: Male:MiddleFinger1_L
+    100252: Male:MiddleFinger1_R
+    100254: Male:MiddleFinger2_L
+    100256: Male:MiddleFinger2_R
+    100258: Male:MiddleFinger3_L
+    100260: Male:MiddleFinger3_R
+    100262: Male:MiddleFinger4_L
+    100264: Male:MiddleFinger4_R
+    100266: Male:MiddleToe1_L
+    100268: Male:MiddleToe1_R
+    100270: Male:MiddleToe2_L
+    100272: Male:MiddleToe2_R
+    100274: Male:mouthcorner_L
+    100276: Male:mouthcorner_L_JNT
+    100278: Male:mouthcorner_L_LOC
+    100280: Male:mouthcorner_R
+    100282: Male:mouthcorner_R_JNT
+    100284: Male:mouthcorner_R_LOC
+    100286: Male:mouthlower_L
+    100288: Male:mouthlower_L_JNT
+    100290: Male:mouthlower_L_LOC
+    100292: Male:mouthlower_mid
+    100294: Male:mouthlower_mid_JNT
+    100296: Male:mouthlower_mid_LOC
+    100298: Male:mouthlower_R
+    100300: Male:mouthlower_R_JNT
+    100302: Male:mouthlower_R_LOC
+    100304: Male:mouthupper_L
+    100306: Male:mouthupper_L_JNT
+    100308: Male:mouthupper_L_LOC
+    100310: Male:mouthupper_mid
+    100312: Male:mouthupper_mid_JNT
+    100314: Male:mouthupper_mid_LOC
+    100316: Male:mouthupper_R
+    100318: Male:mouthupper_R_JNT
+    100320: Male:mouthupper_R_LOC
+    100322: Male:Neck_M
+    100324: Male:NeckPart1_M
+    100326: Male:NeckPart2_M
+    100328: Male:new_eyes_mesh
+    100330: Male:new_unityManHead
+    100332: Male:new_unityManLashes
+    100334: Male:nose_mid
+    100336: Male:nose_mid_JNT
+    100338: Male:nose_mid_LOC
+    100340: Male:nostril_L
+    100342: Male:nostril_L_JNT
+    100344: Male:nostril_L_LOC
+    100346: Male:nostril_R
+    100348: Male:nostril_R_JNT
+    100350: Male:nostril_R_LOC
+    100352: Male:nostrilFlare_L_JNT
+    100354: Male:nostrilFlare_R_JNT
+    100356: Male:PinkyFinger1_L
+    100358: Male:PinkyFinger1_R
+    100360: Male:PinkyFinger2_L
+    100362: Male:PinkyFinger2_R
+    100364: Male:PinkyFinger3_L
+    100366: Male:PinkyFinger3_R
+    100368: Male:PinkyFinger4_L
+    100370: Male:PinkyFinger4_R
+    100372: Male:PinkyToe_L
+    100374: Male:PinkyToe_R
+    100376: Male:R_Clench
+    100378: Male:R_Clench_JNT
+    100380: Male:R_Clench_LOC
+    100382: Male:R_NostrilFlarePosition
+    100384: Male:RingFinger1_L
+    100386: Male:RingFinger1_R
+    100388: Male:RingFinger2_L
+    100390: Male:RingFinger2_R
+    100392: Male:RingFinger3_L
+    100394: Male:RingFinger3_R
+    100396: Male:RingFinger4_L
+    100398: Male:RingFinger4_R
+    100400: Male:Root_M
+    100402: Male:Scapula_L
+    100404: Male:Scapula_R
+    100406: Male:Shoulder_L
+    100408: Male:Shoulder_R
+    100410: Male:ShoulderPart1_L
+    100412: Male:ShoulderPart1_R
+    100414: Male:ShoulderPart2_L
+    100416: Male:ShoulderPart2_R
+    100418: Male:squint_L
+    100420: Male:squint_L_JNT
+    100422: Male:squint_L_LOC
+    100424: Male:squint_R
+    100426: Male:squint_R_JNT
+    100428: Male:squint_R_LOC
+    100430: Male:ThumbFinger1_L
+    100432: Male:ThumbFinger1_R
+    100434: Male:ThumbFinger2_L
+    100436: Male:ThumbFinger2_R
+    100438: Male:ThumbFinger3_L
+    100440: Male:ThumbFinger3_R
+    100442: Male:ThumbFinger4_L
+    100444: Male:ThumbFinger4_R
+    100446: Male:transform1
+    100448: Male:unityMan_Mesh
+    100450: Male:unityManClothes
+    100452: Male:VisualTrim
+    100454: Male:Wrist_L
+    100456: Male:Wrist_R
+    100458: unityManBrowsInGame4:Male:EyeBrows
+    100460: Male 1:AimAnnotationEye_L
+    100462: Male 1:AimAnnotationEye_R
+    100464: Male 1:AimCrossEye_M
+    100466: Male 1:AimEye_M
+    100468: Male 1:AimEyeLocatorChild_L
+    100470: Male 1:AimEyeLocatorChild_R
+    100472: Male 1:AimEyeLocatorPupil_L
+    100474: Male 1:AimEyeLocatorPupil_R
+    100476: Male 1:AimEyeLocatorVisualCenter_L
+    100478: Male 1:AimEyeLocatorVisualCenter_R
+    100480: Male 1:AimEyeVisualCenter_L
+    100482: Male 1:AimEyeVisualCenter_R
+    100484: Male 1:AimParentConstraintEye_M
+    100486: Male 1:AimReverseAimConstraintEye_M
+    100488: Male 1:AimSystem
+    100490: Male 1:Ankle_L
+    100492: Male 1:Ankle_R
+    100494: Male 1:BackA_M
+    100496: Male 1:BackB_M
+    100498: Male 1:BigToe_L
+    100500: Male 1:BigToe_R
+    100502: Male 1:cheek_L
+    100504: Male 1:cheek_L_JNT
+    100506: Male 1:cheek_L_LOC
+    100508: Male 1:cheek_R
+    100510: Male 1:cheek_R_JNT
+    100512: Male 1:cheek_R_LOC
+    100514: Male 1:Chest_M
+    100516: Male 1:Chin_JNT
+    100518: Male 1:Cup_L
+    100520: Male 1:Cup_R
+    100522: Male 1:DeformationSystem
+    100524: Male 1:Elbow_L
+    100526: Male 1:Elbow_R
+    100528: Male 1:ElbowPart1_L
+    100530: Male 1:ElbowPart1_R
+    100532: Male 1:ElbowPart2_L
+    100534: Male 1:ElbowPart2_R
+    100536: Male 1:Eye1_L
+    100538: Male 1:Eye1_R
+    100540: Male 1:Eye_L
+    100542: Male 1:Eye_R
+    100544: Male 1:eyebrow_L1
+    100546: Male 1:eyebrow_L1_JNT
+    100548: Male 1:eyebrow_L1_LOC
+    100550: Male 1:eyebrow_L2
+    100552: Male 1:eyebrow_L2_JNT
+    100554: Male 1:eyebrow_L2_LOC
+    100556: Male 1:eyebrow_L3
+    100558: Male 1:eyebrow_L3_JNT
+    100560: Male 1:eyebrow_L3_LOC
+    100562: Male 1:eyebrow_R1
+    100564: Male 1:eyebrow_R1_JNT
+    100566: Male 1:eyebrow_R1_LOC
+    100568: Male 1:eyebrow_R2
+    100570: Male 1:eyebrow_R2_JNT
+    100572: Male 1:eyebrow_R2_LOC
+    100574: Male 1:eyebrow_R3
+    100576: Male 1:eyebrow_R3_JNT
+    100578: Male 1:eyebrow_R3_LOC
+    100580: Male 1:eyelidlower_L_GRP
+    100582: Male 1:eyelidlower_L_JNT
+    100584: Male 1:eyelidlower_L_JNT_END
+    100586: Male 1:eyelidlower_R_GRP
+    100588: Male 1:eyelidlower_R_JNT
+    100590: Male 1:eyelidlower_R_JNT_END
+    100592: Male 1:eyelids_L_LOC
+    100594: Male 1:eyelids_L_sticky
+    100596: Male 1:eyelids_L_sticky_zero
+    100598: Male 1:eyelids_R_LOC
+    100600: Male 1:eyelids_R_sticky
+    100602: Male 1:eyelids_R_sticky_zero
+    100604: Male 1:eyelidupper_L_GRP
+    100606: Male 1:eyelidupper_L_JNT
+    100608: Male 1:eyelidupper_L_JNT_END
+    100610: Male 1:eyelidupper_R_GRP
+    100612: Male 1:eyelidupper_R_JNT
+    100614: Male 1:eyelidupper_R_JNT_END
+    100616: Male 1:FKExtraEye_L
+    100618: Male 1:FKExtraEye_R
+    100620: Male 1:FKEye_L
+    100622: Male 1:FKEye_R
+    100624: Male 1:FKOffsetEye_L
+    100626: Male 1:FKOffsetEye_R
+    100628: Male 1:FKXEye1_L
+    100630: Male 1:FKXEye1_R
+    100632: Male 1:FKXEye_L
+    100634: Male 1:FKXEye_R
+    100636: Male 1:forehead_mid
+    100638: Male 1:forehead_mid_JNT
+    100640: Male 1:forehead_mid_LOC
+    100642: Male 1:Geometry
+    100644: Male 1:Hair_M
+    100646: Male 1:Hair_mesh
+    100648: Male 1:Head_M
+    100650: Male 1:Hip_L
+    100652: Male 1:Hip_R
+    100654: Male 1:HipPart1_L
+    100656: Male 1:HipPart1_R
+    100658: Male 1:HipPart2_L
+    100660: Male 1:HipPart2_R
+    100662: Male 1:IndexFinger1_L
+    100664: Male 1:IndexFinger1_R
+    100666: Male 1:IndexFinger2_L
+    100668: Male 1:IndexFinger2_R
+    100670: Male 1:IndexFinger3_L
+    100672: Male 1:IndexFinger3_R
+    100674: Male 1:IndexFinger4_L
+    100676: Male 1:IndexFinger4_R
+    100678: Male 1:Jaw_M
+    100680: Male 1:JawEnd_M
+    100682: Male 1:Knee_L
+    100684: Male 1:Knee_R
+    100686: Male 1:KneePart1_L
+    100688: Male 1:KneePart1_R
+    100690: Male 1:KneePart2_L
+    100692: Male 1:KneePart2_R
+    100694: Male 1:L_Clench
+    100696: Male 1:L_Clench_JNT
+    100698: Male 1:L_Clench_LOC
+    100700: Male 1:L_NostrilFlarePosition
+    100702: Male 1:Main
+    100704: Male 1:MaleHeadOnly_Group
+    100706: Male 1:ManFacialPoses
+    100708: Male 1:MiddleFinger1_L
+    100710: Male 1:MiddleFinger1_R
+    100712: Male 1:MiddleFinger2_L
+    100714: Male 1:MiddleFinger2_R
+    100716: Male 1:MiddleFinger3_L
+    100718: Male 1:MiddleFinger3_R
+    100720: Male 1:MiddleFinger4_L
+    100722: Male 1:MiddleFinger4_R
+    100724: Male 1:MiddleToe1_L
+    100726: Male 1:MiddleToe1_R
+    100728: Male 1:MiddleToe2_L
+    100730: Male 1:MiddleToe2_R
+    100732: Male 1:mouthcorner_L
+    100734: Male 1:mouthcorner_L_JNT
+    100736: Male 1:mouthcorner_L_LOC
+    100738: Male 1:mouthcorner_R
+    100740: Male 1:mouthcorner_R_JNT
+    100742: Male 1:mouthcorner_R_LOC
+    100744: Male 1:mouthlower_L
+    100746: Male 1:mouthlower_L_JNT
+    100748: Male 1:mouthlower_L_LOC
+    100750: Male 1:mouthlower_mid
+    100752: Male 1:mouthlower_mid_JNT
+    100754: Male 1:mouthlower_mid_LOC
+    100756: Male 1:mouthlower_R
+    100758: Male 1:mouthlower_R_JNT
+    100760: Male 1:mouthlower_R_LOC
+    100762: Male 1:mouthupper_L
+    100764: Male 1:mouthupper_L_JNT
+    100766: Male 1:mouthupper_L_LOC
+    100768: Male 1:mouthupper_mid
+    100770: Male 1:mouthupper_mid_JNT
+    100772: Male 1:mouthupper_mid_LOC
+    100774: Male 1:mouthupper_R
+    100776: Male 1:mouthupper_R_JNT
+    100778: Male 1:mouthupper_R_LOC
+    100780: Male 1:Neck_M
+    100782: Male 1:NeckPart1_M
+    100784: Male 1:NeckPart2_M
+    100786: Male 1:new_eyes_mesh
+    100788: Male 1:new_unityManHead
+    100790: Male 1:new_unityManLashes
+    100792: Male 1:nose_mid
+    100794: Male 1:nose_mid_JNT
+    100796: Male 1:nose_mid_LOC
+    100798: Male 1:nostril_L
+    100800: Male 1:nostril_L_JNT
+    100802: Male 1:nostril_L_LOC
+    100804: Male 1:nostril_R
+    100806: Male 1:nostril_R_JNT
+    100808: Male 1:nostril_R_LOC
+    100810: Male 1:nostrilFlare_L_JNT
+    100812: Male 1:nostrilFlare_R_JNT
+    100814: Male 1:PinkyFinger1_L
+    100816: Male 1:PinkyFinger1_R
+    100818: Male 1:PinkyFinger2_L
+    100820: Male 1:PinkyFinger2_R
+    100822: Male 1:PinkyFinger3_L
+    100824: Male 1:PinkyFinger3_R
+    100826: Male 1:PinkyFinger4_L
+    100828: Male 1:PinkyFinger4_R
+    100830: Male 1:PinkyToe_L
+    100832: Male 1:PinkyToe_R
+    100834: Male 1:R_Clench
+    100836: Male 1:R_Clench_JNT
+    100838: Male 1:R_Clench_LOC
+    100840: Male 1:R_NostrilFlarePosition
+    100842: Male 1:RingFinger1_L
+    100844: Male 1:RingFinger1_R
+    100846: Male 1:RingFinger2_L
+    100848: Male 1:RingFinger2_R
+    100850: Male 1:RingFinger3_L
+    100852: Male 1:RingFinger3_R
+    100854: Male 1:RingFinger4_L
+    100856: Male 1:RingFinger4_R
+    100858: Male 1:Root_M
+    100860: Male 1:Scapula_L
+    100862: Male 1:Scapula_R
+    100864: Male 1:Shoulder_L
+    100866: Male 1:Shoulder_R
+    100868: Male 1:ShoulderPart1_L
+    100870: Male 1:ShoulderPart1_R
+    100872: Male 1:ShoulderPart2_L
+    100874: Male 1:ShoulderPart2_R
+    100876: Male 1:squint_L
+    100878: Male 1:squint_L_JNT
+    100880: Male 1:squint_L_LOC
+    100882: Male 1:squint_R
+    100884: Male 1:squint_R_JNT
+    100886: Male 1:squint_R_LOC
+    100888: Male 1:ThumbFinger1_L
+    100890: Male 1:ThumbFinger1_R
+    100892: Male 1:ThumbFinger2_L
+    100894: Male 1:ThumbFinger2_R
+    100896: Male 1:ThumbFinger3_L
+    100898: Male 1:ThumbFinger3_R
+    100900: Male 1:ThumbFinger4_L
+    100902: Male 1:ThumbFinger4_R
+    100904: Male 1:transform1
+    100906: Male 1:unityMan_Mesh
+    100908: Male 1:unityManClothes
+    100910: Male 1:VisualTrim
+    100912: Male 1:Wrist_L
+    100914: Male 1:Wrist_R
+    100916: Male:EyeBrows
+    100918: Male:UnityMan_group
+    100920: MalePistol:SteamGun
+    100922: MalePistol:SteamGunGroup
+    100924: MalePistol:SteamGunTrigger
+    100926: eyesOuter
+    100928: group
+    400000: //RootNode
+    400002: Male:AimAnnotationEye_L
+    400004: Male:AimAnnotationEye_R
+    400006: Male:AimCrossEye_M
+    400008: Male:AimEye_M
+    400010: Male:AimEyeLocatorChild_L
+    400012: Male:AimEyeLocatorChild_R
+    400014: Male:AimEyeLocatorPupil_L
+    400016: Male:AimEyeLocatorPupil_R
+    400018: Male:AimEyeLocatorVisualCenter_L
+    400020: Male:AimEyeLocatorVisualCenter_R
+    400022: Male:AimEyeVisualCenter_L
+    400024: Male:AimEyeVisualCenter_R
+    400026: Male:AimParentConstraintEye_M
+    400028: Male:AimReverseAimConstraintEye_M
+    400030: Male:AimSystem
+    400032: Male:Ankle_L
+    400034: Male:Ankle_R
+    400036: Male:BackA_M
+    400038: Male:BackB_M
+    400040: Male:BigToe_L
+    400042: Male:BigToe_R
+    400044: Male:cheek_L
+    400046: Male:cheek_L_JNT
+    400048: Male:cheek_L_LOC
+    400050: Male:cheek_R
+    400052: Male:cheek_R_JNT
+    400054: Male:cheek_R_LOC
+    400056: Male:Chest_M
+    400058: Male:Chin_JNT
+    400060: Male:Cup_L
+    400062: Male:Cup_R
+    400064: Male:DeformationSystem
+    400066: Male:Elbow_L
+    400068: Male:Elbow_R
+    400070: Male:ElbowPart1_L
+    400072: Male:ElbowPart1_R
+    400074: Male:ElbowPart2_L
+    400076: Male:ElbowPart2_R
+    400078: Male:Eye1_L
+    400080: Male:Eye1_R
+    400082: Male:Eye_L
+    400084: Male:Eye_R
+    400086: Male:eyebrow_L1
+    400088: Male:eyebrow_L1_JNT
+    400090: Male:eyebrow_L1_LOC
+    400092: Male:eyebrow_L2
+    400094: Male:eyebrow_L2_JNT
+    400096: Male:eyebrow_L2_LOC
+    400098: Male:eyebrow_L3
+    400100: Male:eyebrow_L3_JNT
+    400102: Male:eyebrow_L3_LOC
+    400104: Male:eyebrow_R1
+    400106: Male:eyebrow_R1_JNT
+    400108: Male:eyebrow_R1_LOC
+    400110: Male:eyebrow_R2
+    400112: Male:eyebrow_R2_JNT
+    400114: Male:eyebrow_R2_LOC
+    400116: Male:eyebrow_R3
+    400118: Male:eyebrow_R3_JNT
+    400120: Male:eyebrow_R3_LOC
+    400122: Male:eyelidlower_L_GRP
+    400124: Male:eyelidlower_L_JNT
+    400126: Male:eyelidlower_L_JNT_END
+    400128: Male:eyelidlower_R_GRP
+    400130: Male:eyelidlower_R_JNT
+    400132: Male:eyelidlower_R_JNT_END
+    400134: Male:eyelids_L_LOC
+    400136: Male:eyelids_L_sticky
+    400138: Male:eyelids_L_sticky_zero
+    400140: Male:eyelids_R_LOC
+    400142: Male:eyelids_R_sticky
+    400144: Male:eyelids_R_sticky_zero
+    400146: Male:eyelidupper_L_GRP
+    400148: Male:eyelidupper_L_JNT
+    400150: Male:eyelidupper_L_JNT_END
+    400152: Male:eyelidupper_R_GRP
+    400154: Male:eyelidupper_R_JNT
+    400156: Male:eyelidupper_R_JNT_END
+    400158: Male:FKExtraEye_L
+    400160: Male:FKExtraEye_R
+    400162: Male:FKEye_L
+    400164: Male:FKEye_R
+    400166: Male:FKOffsetEye_L
+    400168: Male:FKOffsetEye_R
+    400170: Male:FKXEye1_L
+    400172: Male:FKXEye1_R
+    400174: Male:FKXEye_L
+    400176: Male:FKXEye_R
+    400178: Male:forehead_mid
+    400180: Male:forehead_mid_JNT
+    400182: Male:forehead_mid_LOC
+    400184: Male:Geometry
+    400186: Male:Hair_M
+    400188: Male:Hair_mesh
+    400190: Male:Head_M
+    400192: Male:Hip_L
+    400194: Male:Hip_R
+    400196: Male:HipPart1_L
+    400198: Male:HipPart1_R
+    400200: Male:HipPart2_L
+    400202: Male:HipPart2_R
+    400204: Male:IndexFinger1_L
+    400206: Male:IndexFinger1_R
+    400208: Male:IndexFinger2_L
+    400210: Male:IndexFinger2_R
+    400212: Male:IndexFinger3_L
+    400214: Male:IndexFinger3_R
+    400216: Male:IndexFinger4_L
+    400218: Male:IndexFinger4_R
+    400220: Male:Jaw_M
+    400222: Male:JawEnd_M
+    400224: Male:Knee_L
+    400226: Male:Knee_R
+    400228: Male:KneePart1_L
+    400230: Male:KneePart1_R
+    400232: Male:KneePart2_L
+    400234: Male:KneePart2_R
+    400236: Male:L_Clench
+    400238: Male:L_Clench_JNT
+    400240: Male:L_Clench_LOC
+    400242: Male:L_NostrilFlarePosition
+    400244: Male:Main
+    400246: Male:MaleHeadOnly_Group
+    400248: Male:ManFacialPoses
+    400250: Male:MiddleFinger1_L
+    400252: Male:MiddleFinger1_R
+    400254: Male:MiddleFinger2_L
+    400256: Male:MiddleFinger2_R
+    400258: Male:MiddleFinger3_L
+    400260: Male:MiddleFinger3_R
+    400262: Male:MiddleFinger4_L
+    400264: Male:MiddleFinger4_R
+    400266: Male:MiddleToe1_L
+    400268: Male:MiddleToe1_R
+    400270: Male:MiddleToe2_L
+    400272: Male:MiddleToe2_R
+    400274: Male:mouthcorner_L
+    400276: Male:mouthcorner_L_JNT
+    400278: Male:mouthcorner_L_LOC
+    400280: Male:mouthcorner_R
+    400282: Male:mouthcorner_R_JNT
+    400284: Male:mouthcorner_R_LOC
+    400286: Male:mouthlower_L
+    400288: Male:mouthlower_L_JNT
+    400290: Male:mouthlower_L_LOC
+    400292: Male:mouthlower_mid
+    400294: Male:mouthlower_mid_JNT
+    400296: Male:mouthlower_mid_LOC
+    400298: Male:mouthlower_R
+    400300: Male:mouthlower_R_JNT
+    400302: Male:mouthlower_R_LOC
+    400304: Male:mouthupper_L
+    400306: Male:mouthupper_L_JNT
+    400308: Male:mouthupper_L_LOC
+    400310: Male:mouthupper_mid
+    400312: Male:mouthupper_mid_JNT
+    400314: Male:mouthupper_mid_LOC
+    400316: Male:mouthupper_R
+    400318: Male:mouthupper_R_JNT
+    400320: Male:mouthupper_R_LOC
+    400322: Male:Neck_M
+    400324: Male:NeckPart1_M
+    400326: Male:NeckPart2_M
+    400328: Male:new_eyes_mesh
+    400330: Male:new_unityManHead
+    400332: Male:new_unityManLashes
+    400334: Male:nose_mid
+    400336: Male:nose_mid_JNT
+    400338: Male:nose_mid_LOC
+    400340: Male:nostril_L
+    400342: Male:nostril_L_JNT
+    400344: Male:nostril_L_LOC
+    400346: Male:nostril_R
+    400348: Male:nostril_R_JNT
+    400350: Male:nostril_R_LOC
+    400352: Male:nostrilFlare_L_JNT
+    400354: Male:nostrilFlare_R_JNT
+    400356: Male:PinkyFinger1_L
+    400358: Male:PinkyFinger1_R
+    400360: Male:PinkyFinger2_L
+    400362: Male:PinkyFinger2_R
+    400364: Male:PinkyFinger3_L
+    400366: Male:PinkyFinger3_R
+    400368: Male:PinkyFinger4_L
+    400370: Male:PinkyFinger4_R
+    400372: Male:PinkyToe_L
+    400374: Male:PinkyToe_R
+    400376: Male:R_Clench
+    400378: Male:R_Clench_JNT
+    400380: Male:R_Clench_LOC
+    400382: Male:R_NostrilFlarePosition
+    400384: Male:RingFinger1_L
+    400386: Male:RingFinger1_R
+    400388: Male:RingFinger2_L
+    400390: Male:RingFinger2_R
+    400392: Male:RingFinger3_L
+    400394: Male:RingFinger3_R
+    400396: Male:RingFinger4_L
+    400398: Male:RingFinger4_R
+    400400: Male:Root_M
+    400402: Male:Scapula_L
+    400404: Male:Scapula_R
+    400406: Male:Shoulder_L
+    400408: Male:Shoulder_R
+    400410: Male:ShoulderPart1_L
+    400412: Male:ShoulderPart1_R
+    400414: Male:ShoulderPart2_L
+    400416: Male:ShoulderPart2_R
+    400418: Male:squint_L
+    400420: Male:squint_L_JNT
+    400422: Male:squint_L_LOC
+    400424: Male:squint_R
+    400426: Male:squint_R_JNT
+    400428: Male:squint_R_LOC
+    400430: Male:ThumbFinger1_L
+    400432: Male:ThumbFinger1_R
+    400434: Male:ThumbFinger2_L
+    400436: Male:ThumbFinger2_R
+    400438: Male:ThumbFinger3_L
+    400440: Male:ThumbFinger3_R
+    400442: Male:ThumbFinger4_L
+    400444: Male:ThumbFinger4_R
+    400446: Male:transform1
+    400448: Male:unityMan_Mesh
+    400450: Male:unityManClothes
+    400452: Male:VisualTrim
+    400454: Male:Wrist_L
+    400456: Male:Wrist_R
+    400458: unityManBrowsInGame4:Male:EyeBrows
+    400460: Male 1:AimAnnotationEye_L
+    400462: Male 1:AimAnnotationEye_R
+    400464: Male 1:AimCrossEye_M
+    400466: Male 1:AimEye_M
+    400468: Male 1:AimEyeLocatorChild_L
+    400470: Male 1:AimEyeLocatorChild_R
+    400472: Male 1:AimEyeLocatorPupil_L
+    400474: Male 1:AimEyeLocatorPupil_R
+    400476: Male 1:AimEyeLocatorVisualCenter_L
+    400478: Male 1:AimEyeLocatorVisualCenter_R
+    400480: Male 1:AimEyeVisualCenter_L
+    400482: Male 1:AimEyeVisualCenter_R
+    400484: Male 1:AimParentConstraintEye_M
+    400486: Male 1:AimReverseAimConstraintEye_M
+    400488: Male 1:AimSystem
+    400490: Male 1:Ankle_L
+    400492: Male 1:Ankle_R
+    400494: Male 1:BackA_M
+    400496: Male 1:BackB_M
+    400498: Male 1:BigToe_L
+    400500: Male 1:BigToe_R
+    400502: Male 1:cheek_L
+    400504: Male 1:cheek_L_JNT
+    400506: Male 1:cheek_L_LOC
+    400508: Male 1:cheek_R
+    400510: Male 1:cheek_R_JNT
+    400512: Male 1:cheek_R_LOC
+    400514: Male 1:Chest_M
+    400516: Male 1:Chin_JNT
+    400518: Male 1:Cup_L
+    400520: Male 1:Cup_R
+    400522: Male 1:DeformationSystem
+    400524: Male 1:Elbow_L
+    400526: Male 1:Elbow_R
+    400528: Male 1:ElbowPart1_L
+    400530: Male 1:ElbowPart1_R
+    400532: Male 1:ElbowPart2_L
+    400534: Male 1:ElbowPart2_R
+    400536: Male 1:Eye1_L
+    400538: Male 1:Eye1_R
+    400540: Male 1:Eye_L
+    400542: Male 1:Eye_R
+    400544: Male 1:eyebrow_L1
+    400546: Male 1:eyebrow_L1_JNT
+    400548: Male 1:eyebrow_L1_LOC
+    400550: Male 1:eyebrow_L2
+    400552: Male 1:eyebrow_L2_JNT
+    400554: Male 1:eyebrow_L2_LOC
+    400556: Male 1:eyebrow_L3
+    400558: Male 1:eyebrow_L3_JNT
+    400560: Male 1:eyebrow_L3_LOC
+    400562: Male 1:eyebrow_R1
+    400564: Male 1:eyebrow_R1_JNT
+    400566: Male 1:eyebrow_R1_LOC
+    400568: Male 1:eyebrow_R2
+    400570: Male 1:eyebrow_R2_JNT
+    400572: Male 1:eyebrow_R2_LOC
+    400574: Male 1:eyebrow_R3
+    400576: Male 1:eyebrow_R3_JNT
+    400578: Male 1:eyebrow_R3_LOC
+    400580: Male 1:eyelidlower_L_GRP
+    400582: Male 1:eyelidlower_L_JNT
+    400584: Male 1:eyelidlower_L_JNT_END
+    400586: Male 1:eyelidlower_R_GRP
+    400588: Male 1:eyelidlower_R_JNT
+    400590: Male 1:eyelidlower_R_JNT_END
+    400592: Male 1:eyelids_L_LOC
+    400594: Male 1:eyelids_L_sticky
+    400596: Male 1:eyelids_L_sticky_zero
+    400598: Male 1:eyelids_R_LOC
+    400600: Male 1:eyelids_R_sticky
+    400602: Male 1:eyelids_R_sticky_zero
+    400604: Male 1:eyelidupper_L_GRP
+    400606: Male 1:eyelidupper_L_JNT
+    400608: Male 1:eyelidupper_L_JNT_END
+    400610: Male 1:eyelidupper_R_GRP
+    400612: Male 1:eyelidupper_R_JNT
+    400614: Male 1:eyelidupper_R_JNT_END
+    400616: Male 1:FKExtraEye_L
+    400618: Male 1:FKExtraEye_R
+    400620: Male 1:FKEye_L
+    400622: Male 1:FKEye_R
+    400624: Male 1:FKOffsetEye_L
+    400626: Male 1:FKOffsetEye_R
+    400628: Male 1:FKXEye1_L
+    400630: Male 1:FKXEye1_R
+    400632: Male 1:FKXEye_L
+    400634: Male 1:FKXEye_R
+    400636: Male 1:forehead_mid
+    400638: Male 1:forehead_mid_JNT
+    400640: Male 1:forehead_mid_LOC
+    400642: Male 1:Geometry
+    400644: Male 1:Hair_M
+    400646: Male 1:Hair_mesh
+    400648: Male 1:Head_M
+    400650: Male 1:Hip_L
+    400652: Male 1:Hip_R
+    400654: Male 1:HipPart1_L
+    400656: Male 1:HipPart1_R
+    400658: Male 1:HipPart2_L
+    400660: Male 1:HipPart2_R
+    400662: Male 1:IndexFinger1_L
+    400664: Male 1:IndexFinger1_R
+    400666: Male 1:IndexFinger2_L
+    400668: Male 1:IndexFinger2_R
+    400670: Male 1:IndexFinger3_L
+    400672: Male 1:IndexFinger3_R
+    400674: Male 1:IndexFinger4_L
+    400676: Male 1:IndexFinger4_R
+    400678: Male 1:Jaw_M
+    400680: Male 1:JawEnd_M
+    400682: Male 1:Knee_L
+    400684: Male 1:Knee_R
+    400686: Male 1:KneePart1_L
+    400688: Male 1:KneePart1_R
+    400690: Male 1:KneePart2_L
+    400692: Male 1:KneePart2_R
+    400694: Male 1:L_Clench
+    400696: Male 1:L_Clench_JNT
+    400698: Male 1:L_Clench_LOC
+    400700: Male 1:L_NostrilFlarePosition
+    400702: Male 1:Main
+    400704: Male 1:MaleHeadOnly_Group
+    400706: Male 1:ManFacialPoses
+    400708: Male 1:MiddleFinger1_L
+    400710: Male 1:MiddleFinger1_R
+    400712: Male 1:MiddleFinger2_L
+    400714: Male 1:MiddleFinger2_R
+    400716: Male 1:MiddleFinger3_L
+    400718: Male 1:MiddleFinger3_R
+    400720: Male 1:MiddleFinger4_L
+    400722: Male 1:MiddleFinger4_R
+    400724: Male 1:MiddleToe1_L
+    400726: Male 1:MiddleToe1_R
+    400728: Male 1:MiddleToe2_L
+    400730: Male 1:MiddleToe2_R
+    400732: Male 1:mouthcorner_L
+    400734: Male 1:mouthcorner_L_JNT
+    400736: Male 1:mouthcorner_L_LOC
+    400738: Male 1:mouthcorner_R
+    400740: Male 1:mouthcorner_R_JNT
+    400742: Male 1:mouthcorner_R_LOC
+    400744: Male 1:mouthlower_L
+    400746: Male 1:mouthlower_L_JNT
+    400748: Male 1:mouthlower_L_LOC
+    400750: Male 1:mouthlower_mid
+    400752: Male 1:mouthlower_mid_JNT
+    400754: Male 1:mouthlower_mid_LOC
+    400756: Male 1:mouthlower_R
+    400758: Male 1:mouthlower_R_JNT
+    400760: Male 1:mouthlower_R_LOC
+    400762: Male 1:mouthupper_L
+    400764: Male 1:mouthupper_L_JNT
+    400766: Male 1:mouthupper_L_LOC
+    400768: Male 1:mouthupper_mid
+    400770: Male 1:mouthupper_mid_JNT
+    400772: Male 1:mouthupper_mid_LOC
+    400774: Male 1:mouthupper_R
+    400776: Male 1:mouthupper_R_JNT
+    400778: Male 1:mouthupper_R_LOC
+    400780: Male 1:Neck_M
+    400782: Male 1:NeckPart1_M
+    400784: Male 1:NeckPart2_M
+    400786: Male 1:new_eyes_mesh
+    400788: Male 1:new_unityManHead
+    400790: Male 1:new_unityManLashes
+    400792: Male 1:nose_mid
+    400794: Male 1:nose_mid_JNT
+    400796: Male 1:nose_mid_LOC
+    400798: Male 1:nostril_L
+    400800: Male 1:nostril_L_JNT
+    400802: Male 1:nostril_L_LOC
+    400804: Male 1:nostril_R
+    400806: Male 1:nostril_R_JNT
+    400808: Male 1:nostril_R_LOC
+    400810: Male 1:nostrilFlare_L_JNT
+    400812: Male 1:nostrilFlare_R_JNT
+    400814: Male 1:PinkyFinger1_L
+    400816: Male 1:PinkyFinger1_R
+    400818: Male 1:PinkyFinger2_L
+    400820: Male 1:PinkyFinger2_R
+    400822: Male 1:PinkyFinger3_L
+    400824: Male 1:PinkyFinger3_R
+    400826: Male 1:PinkyFinger4_L
+    400828: Male 1:PinkyFinger4_R
+    400830: Male 1:PinkyToe_L
+    400832: Male 1:PinkyToe_R
+    400834: Male 1:R_Clench
+    400836: Male 1:R_Clench_JNT
+    400838: Male 1:R_Clench_LOC
+    400840: Male 1:R_NostrilFlarePosition
+    400842: Male 1:RingFinger1_L
+    400844: Male 1:RingFinger1_R
+    400846: Male 1:RingFinger2_L
+    400848: Male 1:RingFinger2_R
+    400850: Male 1:RingFinger3_L
+    400852: Male 1:RingFinger3_R
+    400854: Male 1:RingFinger4_L
+    400856: Male 1:RingFinger4_R
+    400858: Male 1:Root_M
+    400860: Male 1:Scapula_L
+    400862: Male 1:Scapula_R
+    400864: Male 1:Shoulder_L
+    400866: Male 1:Shoulder_R
+    400868: Male 1:ShoulderPart1_L
+    400870: Male 1:ShoulderPart1_R
+    400872: Male 1:ShoulderPart2_L
+    400874: Male 1:ShoulderPart2_R
+    400876: Male 1:squint_L
+    400878: Male 1:squint_L_JNT
+    400880: Male 1:squint_L_LOC
+    400882: Male 1:squint_R
+    400884: Male 1:squint_R_JNT
+    400886: Male 1:squint_R_LOC
+    400888: Male 1:ThumbFinger1_L
+    400890: Male 1:ThumbFinger1_R
+    400892: Male 1:ThumbFinger2_L
+    400894: Male 1:ThumbFinger2_R
+    400896: Male 1:ThumbFinger3_L
+    400898: Male 1:ThumbFinger3_R
+    400900: Male 1:ThumbFinger4_L
+    400902: Male 1:ThumbFinger4_R
+    400904: Male 1:transform1
+    400906: Male 1:unityMan_Mesh
+    400908: Male 1:unityManClothes
+    400910: Male 1:VisualTrim
+    400912: Male 1:Wrist_L
+    400914: Male 1:Wrist_R
+    400916: Male:EyeBrows
+    400918: Male:UnityMan_group
+    400920: MalePistol:SteamGun
+    400922: MalePistol:SteamGunGroup
+    400924: MalePistol:SteamGunTrigger
+    400926: eyesOuter
+    400928: group
+    2300000: MalePistol:SteamGun
+    2300002: MalePistol:SteamGunTrigger
+    3300000: MalePistol:SteamGun
+    3300002: MalePistol:SteamGunTrigger
+    4300000: Male:new_unityManLashes
+    4300002: Male:new_unityManHead
+    4300004: Male:new_eyes_mesh
+    4300006: Male:Hair_mesh
+    4300008: Male:unityManClothes
+    4300010: unityManBrowsInGame4:Male:EyeBrows
+    4300012: Male 1:new_unityManLashes
+    4300014: Male 1:new_unityManHead
+    4300016: Male 1:new_eyes_mesh
+    4300018: Male 1:Hair_mesh
+    4300020: Male 1:unityManClothes
+    4300022: Male:EyeBrows
+    4300024: MalePistol:SteamGunTrigger
+    4300026: MalePistol:SteamGun
+    4300028: eyesOuter
+    7400000: Idles (both) 0-149
+    7400002: Jump2 (male) 171-530
+    7400004: Ramming2 (both) 627-898
+    7400006: TurnLeftFiringOnce (1st short) 932- 1182
+    7400008: FemaleFiringOnce (both) 1183- 1363
+    7400010: TrafficDodge2 (both) 1407- 1651
+    7400012: TurboBoost (male) 1652- 2096
+    7400014: ObstacleSkid2 (both) 2408- 2649
+    7400016: TrafficDodge-Turning (both) 1484- 1651
+    7400018: TurnLeftFiringOnce (2nd short) 1067- 1182
+    7400020: Jump (male) 150-530
+    7400022: Ramming (both) 531-898
+    7400024: TurnLeftFiringOnce (both) 899- 1182
+    7400026: TrafficDodge (both) 1364- 1651
+    7400028: ObstacleSkid (both) 2341- 2649
+    7400030: FemaleFiringOnce2 (both) 1183- 1363
+    7400032: TurboBoost2 (male) 1695 - 2096
+    7400034: TurboBoost3 (male) 1874 - 2096
+    7400036: TurboBoost
+    7400038: Jumps2
+    7400040: Ramming2
+    7400042: Turning
+    7400044: FiringOnceShort1
+    7400046: FiringOnceShort2
+    7400048: FiringOnceShort3
+    7400050: FemaleFiringOnce2
+    7400052: TrafficDodge2
+    7400054: TurboBoost2
+    7400056: TurboBoost3
+    7400058: ObstacleSkid2
+    7400060: Idles
+    7400062: TurboBoost4
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Male:Hair_mesh
+    13700002: Male:new_eyes_mesh
+    13700004: Male:new_unityManHead
+    13700006: Male:new_unityManLashes
+    13700008: Male:unityManClothes
+    13700010: unityManBrowsInGame4:Male:EyeBrows
+    13700012: Male 1:Hair_mesh
+    13700014: Male 1:new_eyes_mesh
+    13700016: Male 1:new_unityManHead
+    13700018: Male 1:new_unityManLashes
+    13700020: Male 1:unityManClothes
+    13700022: Male:EyeBrows
+    13700024: eyesOuter
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations:
+    - name: TurboBoost
+      takeName: Take 001
+      firstFrame: 1652
+      lastFrame: 1811
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Jumps2
+      takeName: Take 001
+      firstFrame: 168
+      lastFrame: 571
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Ramming2
+      takeName: Take 001
+      firstFrame: 627
+      lastFrame: 826
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Turning
+      takeName: Take 001
+      firstFrame: 1484
+      lastFrame: 1568
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: FiringOnceShort1
+      takeName: Take 001
+      firstFrame: 932
+      lastFrame: 1105
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: FiringOnceShort2
+      takeName: Take 001
+      firstFrame: 1067
+      lastFrame: 1122
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: FiringOnceShort3
+      takeName: Take 001
+      firstFrame: 1089
+      lastFrame: 1120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: FemaleFiringOnce2
+      takeName: Take 001
+      firstFrame: 1229
+      lastFrame: 1376
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: TrafficDodge2
+      takeName: Take 001
+      firstFrame: 1407
+      lastFrame: 1759
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: TurboBoost2
+      takeName: Take 001
+      firstFrame: 1695
+      lastFrame: 1874
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: TurboBoost3
+      takeName: Take 001
+      firstFrame: 1874
+      lastFrame: 1981
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: ObstacleSkid2
+      takeName: Take 001
+      firstFrame: 2408
+      lastFrame: 2650
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Idles
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 149
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: TurboBoost4
+      takeName: Take 001
+      firstFrame: 1982
+      lastFrame: 2090
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 180
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

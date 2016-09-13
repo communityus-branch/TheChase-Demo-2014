@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4da24ba169a064894a34b5e9eafa30bc
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - defaultIrisTexture: {instanceID: 0}
+  - dirtTexture: {instanceID: 0}
+  - megaFlareShader: {fileID: 4800000, guid: 70e2366496c1b4bc9aceb6d8b41133f6, type: 3}
+  - megaFlareOnCPUShader: {fileID: 4800000, guid: 4a3503a9f6e4ee745b7e10da55894b91,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
