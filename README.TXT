@@ -19,7 +19,7 @@ Erland Körner
 Jonas Tornqvist
 Ole Ciliox
 Renaldas Zioma
+Silvia Rasheva
 Stefan Sandberg
 Veselin Efremov
-Silvia Rasheva
 Imagination Studios (mo-cap)
