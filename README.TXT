@@ -9,13 +9,14 @@ relies on two commercial Asset Store packages which had to be removed from this 
 This project will NOT BE MAINTAINED. Most likely it will NOT even COMPILE. You have been warned!
 
 PURPOSE:
-Use only for learning or scavenging assets. Might have some interest for code archeologists.
+Use only for learning or to scavenge assets. Might have some interest for code archeologists too :)
 
 LICENSE:
 The MIT License (MIT). See LICENSE.TXT. Based on https://opensource.org/licenses/MIT
 
 
-Credits (alphabetically sorted, including external contractors and additional work):
+CREDITS:
+(alphabetically sorted, includes external contractors and additional work)
 Damien Simper
 Erland Körner
 Jonas Tornqvist
