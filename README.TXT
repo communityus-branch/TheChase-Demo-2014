@@ -3,8 +3,10 @@ Official site: https://unity3d.com/pages/the-chase
 
 DISCLAIMER:
 USE ON YOUR OWN RISK! Project is very old, undocumented, requires Unity 4.5 and
-relies on two commercial Asset Store packages which had to be removed from this repository.
-This project is NOT MAINTAINED. Most likely it will NOT even COMPILE. You have been warned!
+relies on two commercial Asset Store packages which had to be removed from this repository:
+1) SuperSplinePro
+2) Marmoset (was only used for prototyping, but final might have some tiny accidental dependancy)
+This project will NOT BE MAINTAINED. Most likely it will NOT even COMPILE. You have been warned!
 
 PURPOSE:
 Use only for learning or scavenging assets. Might have some interest for code archeologists.
