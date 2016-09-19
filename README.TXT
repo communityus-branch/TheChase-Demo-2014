@@ -16,9 +16,11 @@ The MIT License (MIT). See LICENSE.TXT. Based on https://opensource.org/licenses
 
 
 CREDITS:
-(alphabetically sorted, includes external contractors and additional work)
+(alphabetically sorted, includes external contractors and ANY additional work)
+Borislav Slavov
+Christian Björklund
 Damien Simper
-Erland KÃ¶rner
+Erland Körner
 Jonas Tornqvist
 Ole Ciliox
 Renaldas Zioma
